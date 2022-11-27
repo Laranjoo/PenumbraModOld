@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/47LrPNUFlWHNRUuxtLP9I+3wkGrXcM4Qyd4sYVZH3p8uEcS2fNhao/G5VpuD9q2LHjaVyvAi2hPn1Hr1D6yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\PenumbraMod\\PenumbraMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

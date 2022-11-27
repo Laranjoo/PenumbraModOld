@@ -1,0 +1,8 @@
+C:\Users\Usuario\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\PenumbraMod\obj\Debug\net6.0\PenumbraMod.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\PenumbraMod\obj\Debug\net6.0\PenumbraMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\PenumbraMod\obj\Debug\net6.0\PenumbraMod.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\PenumbraMod\obj\Debug\net6.0\PenumbraMod.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\PenumbraMod\obj\Debug\net6.0\PenumbraMod.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\PenumbraMod\obj\Debug\net6.0\b.dll
+C:\Users\Usuario\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\PenumbraMod\obj\Debug\net6.0\refint\b.dll
+C:\Users\Usuario\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\PenumbraMod\obj\Debug\net6.0\b.pdb
